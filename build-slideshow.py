@@ -19,6 +19,9 @@ ASK_PROMPT = ("Read the Kyivan Rus Condominium proposal at https://dhanna11.gith
               "Summarize it in a few lines, then answer my questions about it. Be fair to both its strengths and its weaknesses, "
               "and where it falls short, suggest how the proposal could be improved.")
 ASK_LINKS = [("Claude", "https://claude.ai/new?q="), ("ChatGPT", "https://chatgpt.com/?q=")]
+# 5 Oct 2026 (author): "I want to make this as DRAFT." While True, the page says DRAFT in its title, in a badge over the
+# slides and as a faint watermark on every slide, and asks search engines not to index it. Set to False to publish as final.
+DRAFT = True
 FEEDBACK = ("Found a way to improve it? Tell me on X: @thekingdavidjr", "https://x.com/thekingdavidjr")
 
 # 24px line icons, stroke = currentColor (the slide sets color and size on the element)
@@ -91,13 +94,25 @@ def build(with_links, deck_dir=DECK):
         if old in order: BUILD_WARNINGS.append(f"alias {old!r} is a live slide id again; remove it from SLIDE_ALIASES")
         if new not in order: BUILD_WARNINGS.append(f"alias {old!r} points to {new!r}, which is not in deck.json; point it at the slide that now holds that content")
     return TEMPLATE.replace("{{SLIDES}}", "\n".join(slides)).replace("{{MENU}}", menu_html).replace("{{PDF}}", links) \
-                   .replace("{{NOTE}}", note).replace("{{TOTAL}}", str(len(order))).replace("{{ALIASES}}", json.dumps(SLIDE_ALIASES))
+                   .replace("{{NOTE}}", note).replace("{{TOTAL}}", str(len(order))).replace("{{ALIASES}}", json.dumps(SLIDE_ALIASES)) \
+                   .replace("{{DRAFT_TITLE}}", "DRAFT · " if DRAFT else "").replace("{{DRAFT_HEAD}}", DRAFT_HEAD if DRAFT else "").replace("{{DRAFT_BADGE}}", DRAFT_BADGE if DRAFT else "")
+
+DRAFT_HEAD = """<meta name="robots" content="noindex">
+<style>
+  .draft { position:absolute; left:16px; top:12px; z-index:3; pointer-events:none; font: 700 11px/1 'JetBrains Mono', ui-monospace, monospace;
+           letter-spacing:2.5px; color: var(--deep); background: var(--gold); border-radius:3px; padding:6px 10px; }
+  .stage section::after { content:"DRAFT"; position:absolute; left:50%; top:50%; transform: translate(-50%, -50%) rotate(-24deg);
+           font: 700 360px/1 'JetBrains Mono', ui-monospace, monospace; letter-spacing:40px; color: rgba(200,132,74,.05); pointer-events:none; }
+</style>"""
+DRAFT_BADGE = '<div class="draft">DRAFT · NOT FINAL</div>'
+
 
 TEMPLATE = r"""<!doctype html>
 <html lang="en">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>The Kyivan Rus Condominium</title>
+<title>{{DRAFT_TITLE}}The Kyivan Rus Condominium</title>
+{{DRAFT_HEAD}}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=JetBrains+Mono:wght@400;700&family=Source+Sans+3:wght@400;600;700&display=swap">
 <style>
@@ -191,6 +206,7 @@ TEMPLATE = r"""<!doctype html>
 {{SLIDES}}
 <div class="hint">← → to move</div>
 {{NOTE}}
+{{DRAFT_BADGE}}
 </main>
 <nav class="bar" aria-label="Slideshow controls">
   <div class="progress" id="prog"></div>

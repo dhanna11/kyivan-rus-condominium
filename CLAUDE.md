@@ -13,6 +13,7 @@ A static site: one click-through slideshow (the pitch) plus the op-ed. No framew
 - The words are the author's. Slide text is condensed from the op-ed; don't reword either without the author's say-so.
 - The slides use EB Garamond because the deck shows Ukrainian and Russian (Київська Русь / Киевская Русь); keep a serif with Cyrillic.
 - Every slide has a stable link (`index.html#<slide-id>`). When a slide id is removed or renamed, add it to `SLIDE_ALIASES` in `build-slideshow.py`; never delete an alias.
+- The site is a DRAFT (author, 5 Oct 2026): `DRAFT = True` in `build-slideshow.py` adds the DRAFT title, badge, slide watermark and a noindex tag, and the op-ed carries a DRAFT line under the byline. Turn both off only when the author says it's final.
 - `ASK_PROMPT`, `FEEDBACK`, `SECTION_LABEL` and `SLIDE_LABEL` in `build-slideshow.py` are the author's wording.
 - Keep the site static and self-contained: no trackers, analytics or third-party scripts without asking.
 - If the build warns about an icon missing from `ICONS`, add its 24px line paths to `ICONS`.

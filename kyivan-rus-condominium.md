@@ -2,6 +2,8 @@
 
 *David Hanna Jr. · @TheKingDavidJr*
 
+> **DRAFT** · a work in progress, not the final text.
+
 ---
 
 The war between Russia and Ukraine has reached a familiar impasse. Every serious negotiation collides with the same problem: Donetsk.
