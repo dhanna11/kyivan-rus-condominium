@@ -1,0 +1,45 @@
+{
+ "title": "The Kyivan Rus Condominium",
+ "order": [
+  "cover",
+  "deadlock",
+  "on-the-table",
+  "condominium",
+  "why-name",
+  "three-names",
+  "kyivan-rus",
+  "kyiv-price",
+  "donets",
+  "guarantees",
+  "plebiscite",
+  "limits",
+  "close",
+  "sources"
+ ],
+ "sections": {
+  "open": {
+   "description": "Title.",
+   "start": "cover"
+  },
+  "problem": {
+   "description": "The impasse and the compromise already discussed.",
+   "start": "deadlock"
+  },
+  "mechanism": {
+   "description": "The condominium.",
+   "start": "condominium"
+  },
+  "name": {
+   "description": "Why the name matters, the three candidates, Kyivan Rus and its price, Donets.",
+   "start": "why-name"
+  },
+  "make-it-real": {
+   "description": "Guarantees and ratification.",
+   "start": "guarantees"
+  },
+  "close": {
+   "description": "Limits, the close and sources.",
+   "start": "limits"
+  }
+ }
+}
