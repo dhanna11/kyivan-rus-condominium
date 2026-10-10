@@ -10,7 +10,7 @@ The war between Russia and Ukraine has reached a familiar impasse. Every serious
 
 Russia demands that Ukraine withdraw from the remaining Ukrainian-held portion of the region — a strip of territory roughly 50 miles long and 40 miles wide between the current frontline and the administrative border of Donetsk Oblast. Ukraine refuses. Kyiv argues that surrendering territory would reward aggression and invite future attacks.
 
-Recent rounds of diplomacy have tried to work around the problem rather than through it. Envoys shuttle between Moscow and Kyiv with ideas about energy infrastructure, grain, and pauses in strikes. Some of those ideas may even be good. But none of them touch the ground the war is actually being fought over, and so far none of them have produced anything. Talks about everything except Donetsk are talks that end where they started.
+Recent rounds of diplomacy have mostly worked around the problem rather than through it. Envoys have shuttled between Moscow and Kyiv with ideas about energy infrastructure, grain, and pauses in strikes, and the energy track has become a fight of its own. In October, Trump struck a deal with Putin on Russian diesel after Kyiv kept hitting Russian refineries, and Zelensky called it "not fair and not honest." But territory is finally back on the table. At talks in Miami that month, U.S. envoys raised new proposals for territorial solutions alongside security guarantees and a postwar package. This proposal is written for that conversation. Talks about everything except Donetsk are talks that end where they started.
 
 Behind the scenes, negotiators have discussed one compromise that does address the strip: [a demilitarized zone controlled by neither army](https://www.nytimes.com/2026/02/18/world/europe/ukraine-russia-peace-talks-demilitarized-zone.html), [governed by a joint civilian administration](https://kyivindependent.com/joint-rule-with-russia-in-donbas/), with the possibility of economic activity inside the zone.
 
@@ -40,7 +40,7 @@ I see three candidates, and each one makes a different claim about what the zone
 
 Kyivan Rus was the medieval state, centered on Kyiv, from which both Ukrainians and Russians trace their origins.
 
-The case for this name runs through Moscow. Putin did not justify this war in territorial terms. He justified it in civilizational ones: [historical unity](http://en.kremlin.ru/events/president/news/66181), one people, a shared cradle artificially divided. Whatever anyone thinks of that argument, it is the story he will eventually have to use to explain the casualties to his own country. A settlement named after a coal basin gives him no way to finish that story. A settlement named after Rus does. He can tell Russians the war secured recognition of the common inheritance. Putin decides when Russia stops fighting, and a name that lets him stop may be worth more than it looks.
+The case for this name runs through Moscow. Putin did not justify this war in territorial terms. He justified it in civilizational ones: [historical unity](http://en.kremlin.ru/events/president/news/66181), one people, a shared cradle artificially divided. Whatever anyone thinks of that argument, it is the story he will eventually have to use to explain the casualties to his own country. A settlement named after a coal basin gives him no way to finish that story. A settlement named after Rus does. He can tell Russians the war secured recognition of the common inheritance. Putin decides when Russia stops fighting, and a name that lets him stop may be worth more than it looks. Washington seems to read it the same way. After the Miami talks, a U.S. official told Axios the goal was "a new proposal that will be good enough for him in order to get him to stop."
 
 The strongest objection is one I made myself in an earlier draft: the temptation in this war is to reach back a millennium for a story, to the shared medieval origins both nations claim, but every artifact from that stratum is already a weapon; the Kremlin has spent years wielding the deep past to argue Ukraine out of existence.
 
@@ -72,7 +72,9 @@ I lead with Kyivan Rus because I suspect Putin's need for a story is the binding
 
 None of this eliminates the need for the strongest possible security guarantees for Ukraine. A condominium without credible deterrence is just a new fault line waiting to produce a new war. The arrangement only works if an attack on the zone or across it triggers consequences severe enough to make escalation irrational.
 
-Enforcement would likely require guarantors drawn from states acceptable to both sides — nations with the military capacity, diplomatic independence, and credibility to make the zone real. As one possible configuration, the UAE — which has already hosted trilateral negotiations and facilitated multiple prisoner exchanges — is an obvious candidate. Turkey, India, and Serbia suggest themselves as further possibilities, each bringing a different combination of diplomatic independence, military capacity, and regional credibility. But this is a naive first pass, as the exact composition would be a matter of intense negotiation.
+Two kinds of guarantee are needed, and they shouldn't be confused. The first protects Ukraine itself. The U.S., Europe and NATO are already negotiating those, and they were the main subject of the Miami talks. A condominium doesn't replace them; it depends on them.
+
+The second kind belongs to the zone: monitors, arbiters and a presence on the ground. Those should come from states both sides can accept, with the military capacity, diplomatic independence, and credibility to make the zone real. The UAE, which has already hosted trilateral negotiations and facilitated multiple prisoner exchanges, is an obvious candidate. Turkey, India, and Serbia suggest themselves as further possibilities. But this is a naive first pass, as the exact composition would be a matter of intense negotiation.
 
 Without credible guarantors, any condominium becomes what Minsk was — a piece of paper that buys time for the next invasion. Ukraine has earned the right to demand that any framework be backed by guarantees with real teeth, not diplomatic gestures.
 
@@ -80,9 +82,11 @@ The institutional architecture needed to sustain a condominium and the broader R
 
 Crucially, any condominium arrangement should be ratified by a plebiscite in both nations. Ukraine has recently accepted a plebiscite in principle. But putting this proposal directly before the Russian people matters just as much, if not more, because they deserve a vote on whether they continue to throw their countrymen away as lambs to the slaughter.
 
+The timing would need protecting. Moscow has already blamed Ukrainian strikes during its parliamentary elections for stalling the talks, so both votes should fall inside a ceasefire, with no strikes on either side's cities while the polls are open.
+
 A note on my own limits: I'm a security engineer, not a historian of the Slavic world. The history here is my best understanding, and I expect specialists to refine parts of it. The argument doesn't depend on getting every date right. It depends on the observation that the compromise currently has a mechanism but no name.
 
-This proposal does not resolve the hardest questions facing negotiators. It does not explain why Russia would accept shared governance, or how enforcement would work, or where reconstruction funding would come from. Those are problems for professionals at the table.
+This proposal does not resolve the hardest questions facing negotiators. It does not explain why Russia would accept shared governance, or how enforcement would work. Reconstruction money is less of a gap than it was: the postwar package U.S. envoys presented in Miami includes reconstruction funding, and the zone would draw on it. Those are problems for professionals at the table.
 
 What it offers is simpler: a name and a narrative for a compromise that currently has neither.
 
