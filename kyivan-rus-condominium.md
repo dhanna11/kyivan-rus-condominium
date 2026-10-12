@@ -1,4 +1,4 @@
-# Naming the Donetsk Deadlock: The Kyivan Rus Condominium
+# The Kyivan Rus Condominium: Naming the Line the War Has Drawn
 
 *David Hanna Jr. · @TheKingDavidJr*
 
@@ -6,27 +6,47 @@
 
 ---
 
-The war between Russia and Ukraine has reached a familiar impasse. Every serious negotiation collides with the same problem: Donetsk.
+The war between Russia and Ukraine has reached a familiar impasse. Russia demands the rest of the Donbas, including the part of Donetsk Oblast it has not been able to take. Ukraine refuses. Kyiv argues that surrendering territory would reward aggression and invite future attacks.
 
-Russia demands that Ukraine withdraw from the remaining Ukrainian-held portion of the region — a strip of territory roughly 50 miles long and 40 miles wide between the current frontline and the administrative border of Donetsk Oblast. Ukraine refuses. Kyiv argues that surrendering territory would reward aggression and invite future attacks.
+Meanwhile the ground has barely moved. Russia's gains have slowed markedly this year; September was its worst month for net gains since June 2023, according to the Black Bird Group, as reported by The New York Times. Comparing DeepState's maps of 1 January and 6 October 2026, Russia took about 306 square miles of Donetsk Oblast in nine months, out of roughly 10,200. In the northern Donbas, a Ukrainian counteroffensive pushed it back.
 
-Recent rounds of diplomacy have mostly worked around the problem rather than through it. Envoys have shuttled between Moscow and Kyiv with ideas about energy infrastructure, grain, and pauses in strikes, and the energy track has become a fight of its own. In October, Trump struck a deal with Putin on Russian diesel after Kyiv kept hitting Russian refineries, and Zelensky called it "not fair and not honest." But territory is finally back on the table. At talks in Miami that month, U.S. envoys raised new proposals for territorial solutions alongside security guarantees and a postwar package. This proposal is written for that conversation. Talks about everything except Donetsk are talks that end where they started.
+The idea of stopping where the armies stand is not new. In October 2025, Trump said both sides should ["cut and stop at the battle line"](https://www.euronews.com/2025/10/23/freezing-the-war-at-current-frontlines-is-a-good-compromise-zelenskyy-says), and Zelensky called that "a good compromise." Moscow rejected it, saying a ceasefire would mean forgetting the war's "root causes." The freeze has never failed on the map. It has failed because nobody has answered Russia's question: what do we get for stopping?
 
-Behind the scenes, negotiators have discussed one compromise that does address the strip: [a demilitarized zone controlled by neither army](https://www.nytimes.com/2026/02/18/world/europe/ukraine-russia-peace-talks-demilitarized-zone.html), [governed by a joint civilian administration](https://kyivindependent.com/joint-rule-with-russia-in-donbas/), with the possibility of economic activity inside the zone.
+This year's diplomacy hasn't answered it either. Envoys have shuttled between Moscow and Kyiv with ideas about energy infrastructure, grain, and pauses in strikes, and the energy track has become a fight of its own. In October, Trump struck a deal with Putin on Russian diesel after Kyiv kept hitting Russian refineries, and Zelensky called it "not fair and not honest." But territory is back on the table. At talks in Miami that month, U.S. envoys raised new proposals for territorial solutions alongside security guarantees and a postwar package.
 
-The practical obstacles to such an arrangement are enormous and well known. Russia controls most of Donetsk, but its advance has nearly stalled. September was its worst month for net gains since June 2023, and a Ukrainian counteroffensive has pushed it back in the north. Moscow still says it will take the rest, by force or by concession. Shared governance only appeals to the Kremlin once it stops believing that. Ukraine cannot politically accept any framework that looks like surrender. The question of who enforces demilitarization, who funds reconstruction in a devastated strip of land, and who prevents the arrangement from collapsing remains unanswered. These are the same problems that have stalled every round of talks, and this proposal does not pretend to solve them.
-
-But there is one dimension of the problem that has received less attention: the absence of a narrative frame that allows both sides to accept a compromise without treating it as defeat.
+This proposal is an answer to Moscow's question. It has a mechanism, a map, and a name.
 
 ## The mechanism
 
-One possible mechanism for framing such an arrangement already exists in international law: [the condominium](https://en.wikipedia.org/wiki/Condominium_(international_law)).
+One possible mechanism already exists in international law: [the condominium](https://en.wikipedia.org/wiki/Condominium_(international_law)).
 
 A condominium is a territory jointly administered by two states without resolving final sovereignty. Historically, this arrangement has stabilized disputed regions where neither side could impose a settlement. Brčko in Bosnia was placed under international supervision after the Yugoslav wars precisely to defer the question of who owned it; the New Hebrides were run jointly by Britain and France for decades before becoming Vanuatu. These precedents are imperfect — neither involved a nuclear-armed belligerent or a conflict of this scale — but the underlying legal principle remains relevant.
 
-Under a condominium, the disputed area would become a demilitarized Special Administrative Zone jointly overseen by Ukraine and Russia with international monitoring and arbitration. Ukraine would not surrender its sovereignty claims. Russia would not be forced into immediate territorial retreat or political defeat. The sovereignty dispute would be deferred while practical governance replaces military confrontation.
+## The map
 
-Drawing the zone's edge won't be simple. As one Ukrainian commander told The New York Times in October, there is no longer a single line on a map in the Donbas where one side's control ends and the other's begins. The gray zone both armies now contest could become the condominium's outer buffer, rather than a line either side has to concede.
+Freeze the war at the line of contact, and make the territory Russia now holds a condominium.
+
+Ukraine keeps everything it holds today, including Sloviansk, Kramatorsk and the rest of its fortress belt. No army withdraws and no city is evacuated, which makes the line the simplest kind to verify. Russia goes on administering the territory it holds, day to day. Ukraine holds defined rights inside it: citizenship for residents who want it, property claims, a right of return, international monitoring, and a say in its final status. Neither side renounces its claim. Sovereignty is deferred, not transferred.
+
+The whole line has to be covered. A ceasefire can't hold in Donetsk while the fighting goes on at Zaporizhzhia, and a settlement that recognizes some of Russia's gains but not others leaves the war half over. So the condominium covers all of it, with annexes where the ground needs its own rules:
+
+- **Crimea and the Black Sea Fleet.** There is a precedent both sides have already signed. From 1997, the [Partition Treaty](https://en.wikipedia.org/wiki/Partition_Treaty_on_the_Status_and_Conditions_of_the_Black_Sea_Fleet) let Russia base its fleet in Ukrainian Crimea under lease, to 2017; the [Kharkiv Pact](https://en.wikipedia.org/wiki/Kharkiv_Pact) of 2010 extended the lease to 2042. Russia ended both in 2014. Basing rights inside a condominium are a formula Moscow and Kyiv already know.
+- **The Zaporizhzhia nuclear plant**, under international operation and IAEA supervision, in its own protocol.
+- **Water and the Dnipro line**, in a technical annex.
+
+If Moscow won't put Crimea into the condominium at all, Crimea can go to a separate protocol, to be settled later, and the rest can proceed. That is a concession to keep in hand for the negotiation, not one to make at the start.
+
+## The trade
+
+For Moscow, this is a step back at home and a step forward abroad.
+
+Russia's constitution already claims these regions, but almost nobody else recognizes the claim. When Russia [annexed four Ukrainian oblasts](https://en.wikipedia.org/wiki/Russian_annexation_of_Donetsk,_Kherson,_Luhansk_and_Zaporizhzhia_oblasts) in 2022, the UN General Assembly condemned it 143 to 5, and only North Korea recognized it. Non-recognition has a price: territorial sanctions, closed ports, no outside investment, and permanent legal exposure. Northern Cyprus shows where that road leads. A condominium endorsed by the UN Security Council would give Russia what annexation never can, a status the rest of the world accepts.
+
+The legal path exists on both sides. Since 2020, Russia's constitution has forbidden ["actions aimed at alienating part of the territory of the Russian Federation"](https://wilsoncenter.org/blog-post/2020-amendment-russian-constitution-another-sign-putins-invasion-isnt-going-planned). A condominium alienates nothing: Russia renounces no claim, and the claim becomes shared. Ukraine's constitution says that ["issues of altering the territory of Ukraine are resolved exclusively by an All-Ukrainian referendum."](https://www.idea.int/node/57655) A condominium alters nothing on paper either, and the referendum it requires is the route the constitution prescribes.
+
+For Kyiv, the trade is exclusive sovereignty on paper, over land it does not control, in exchange for its defensive line, an end to the fighting, and rights it does not have today in the occupied territories.
+
+Recognition is not Ukraine's alone to give. It needs the United States, Britain and France not to veto it in the Security Council, and the European Union to lift its territorial sanctions. That makes the West a party to the deal, and it gives Washington and Brussels something to put on the table besides pressure on Kyiv. Relief should come in stages, each released when Russia has met its obligations under the condominium and monitors have verified it.
 
 ## Why the name matters
 
@@ -34,59 +54,51 @@ Durable settlements rarely succeed on technical terms alone. They require a poli
 
 I work in software, and there's an old line in my field that the two hardest problems in computer science are cache invalidation and naming things. It's usually told as a joke, but the point underneath it is serious: a name is a specification. It says what a thing is for before the thing exists. Since any condominium should be ratified by a plebiscite in both countries, the name is not decoration. It is what each electorate will understand itself to be voting on.
 
-I see three candidates, and each one makes a different claim about what the zone is.
-
-### My preference: the Kyivan Rus Condominium
+### The Kyivan Rus Condominium
 
 Kyivan Rus was the medieval state, centered on Kyiv, from which both Ukrainians and Russians trace their origins.
 
-The case for this name runs through Moscow. Putin did not justify this war in territorial terms. He justified it in civilizational ones: [historical unity](http://en.kremlin.ru/events/president/news/66181), one people, a shared cradle artificially divided. Whatever anyone thinks of that argument, it is the story he will eventually have to use to explain the casualties to his own country. A settlement named after a coal basin gives him no way to finish that story. A settlement named after Rus does. He can tell Russians the war secured recognition of the common inheritance. Putin decides when Russia stops fighting, and a name that lets him stop may be worth more than it looks. Washington seems to read it the same way. After the Miami talks, a U.S. official told Axios the goal was "a new proposal that will be good enough for him in order to get him to stop."
+The case for this name runs through Moscow. Putin did not justify this war in territorial terms. He justified it in civilizational ones: [historical unity](http://en.kremlin.ru/events/president/news/66181), one people, a shared cradle artificially divided. Whatever anyone thinks of that argument, it is the story he will eventually have to use to explain the casualties to his own country. A settlement named after Rus gives him a way to finish it. He can tell Russians the war secured recognition of the common inheritance. Putin decides when Russia stops fighting, and a name that lets him stop may be worth more than it looks.
 
-The strongest objection is one I made myself in an earlier draft: the temptation in this war is to reach back a millennium for a story, to the shared medieval origins both nations claim, but every artifact from that stratum is already a weapon; the Kremlin has spent years wielding the deep past to argue Ukraine out of existence.
+On this map, the name reaches its strongest ground. By the Primary Chronicle's account, Volodymyr of Kyiv was baptized at Chersonesus in Crimea in 988, the founding event of the faith both countries share. Putin has said that Crimea, ["the ancient Korsun or Chersonesus,"](https://www.rferl.org/a/putin-crimea-orthodox-vladimir-great-religion-ukraine-russia/26725761.html) has sacred meaning for Russia, like the Temple Mount in Jerusalem. The Temple Mount is holy to more than one faith, which makes his comparison closer to the logic of a condominium than to annexation.
 
-The cost falls on Kyiv, and I don't want to hide it. Ukraine claims Kyivan Rus as its own heritage, broadly the way Italy claims Rome, while generally acknowledging the shared East Slavic origin. What Ukraine rejects is Moscow's claim to be the rightful heir with standing over Ukraine. A condominium is by nature a shared institution, and sharedness is closer to Moscow's version of the history than Kyiv's. Under this name, a Ukrainian government probably couldn't campaign on the heritage angle at all. It would have to sell the substance instead: the fighting stops, the guarantees are real, the legal claim survives.
+The name also works for Kyiv, because of where it sits. On land Russia runs, a name that begins with Ukraine's capital is a permanent marker of Ukraine's claim. Moscow knows the word matters. Russia's school history standard has replaced "Kievan Rus" with "the state of Rus"; one of the textbook authors [said in 2022](https://www.mk.ru/social/2022/05/23/avtor-novogo-uchebnika-istorii-obyasnil-otsutstvie-kievskoy-rusi.html) the old name was "incorrect" because the state began in Novgorod. So accepting "Kyivan" in the treaty's name would be a real concession from Moscow, and that is what makes it worth something to Kyiv.
 
-There are mitigating factors. A treaty between these two states would carry authentic texts in both languages, so the name would read Київська Русь in Kyiv and Киевская Русь in Moscow, each campaign working in its own language. And the name itself begins with Ukraine's capital. Still, I'd treat it as a concession Ukraine pays for Russian buy-in, not as something Ukrainians would welcome.
+A treaty between these two states would carry authentic texts in both languages: Київська Русь in Kyiv, Киевская Русь in Moscow, each plebiscite campaign working in its own language.
 
-### If that's too much for Kyiv: the Donets Condominium
+The strongest objection is that every artifact from that stratum is already a weapon; the Kremlin has spent years wielding the deep past to argue Ukraine out of existence. Ukraine claims Kyivan Rus as its own heritage, broadly the way Italy claims Rome, while acknowledging the shared East Slavic origin. What it rejects is Moscow's claim to be the rightful heir with standing over Ukraine. A shared name over shared territory can be read as conceding that claim. The answer is the map: the name covers only the land in dispute, and it carries Kyiv's name, not Moscow's.
 
-The Donets Basin offers something different: a history that belongs to the ground rather than to either genealogy. For once, the history cooperates.
+### If the name doesn't hold
 
-For most of recorded history, this land was the answer to nobody's ancestry. It was the Wild Field — open steppe that both Slavic states feared rather than claimed. Its first economy was salt, boiled at Bakhmut by Cossacks and runaway peasants; its settlers were a frontier mosaic of Zaporozhian and Don Cossacks, Serbian colonists, Greeks, Germans, Jews, and Russian and Ukrainian peasants side by side. Then, in 1869, a Welsh ironmaster named John Hughes built an ironworks on the empty steppe, and the company town that grew around it — Yuzovka, "Hughes-ovka" — is today's Donetsk. Around the pits gathered labor from every direction, welded together not by ethnicity but by the mine. The region's own name records it: "Donbas" is a contraction of Donets Coal Basin, a term coined by mining geologists. Alone among the contested territories of this war, this one is named for what lies underground and the work of getting it out — not for a tribe, a prince, or a nation. And the identity that work built was never simply Moscow's: Donbas miners' strikes helped crack the Soviet Union open in 1989, and the Donbas voted overwhelmingly for Ukrainian independence in 1991.
+The name and the map are separate questions, but not fully separate: the name has to be true of the ground it covers. There are two fallbacks.
 
-Calling the arrangement the Donets Condominium — the river, not the oblast; the name beneath the names being fought over — reframes the disputed territory not as a prize to be conquered but as what it has always been: a frontier space built jointly, whose stability must be jointly preserved to stave off possible nuclear war.
+The first is the Donets Condominium, named for the ground rather than for either genealogy. For most of recorded history, this land was the answer to nobody's ancestry. It was the Wild Field — open steppe that both Slavic states feared rather than claimed. Its first economy was salt, boiled at Bakhmut by Cossacks and runaway peasants; its settlers were a frontier mosaic of Zaporozhian and Don Cossacks, Serbian colonists, Greeks, Germans, Jews, and Russian and Ukrainian peasants side by side. Then, in 1869, a Welsh ironmaster named John Hughes built an ironworks on the empty steppe, and the company town that grew around it — Yuzovka, "Hughes-ovka" — is today's Donetsk. "Donbas" is a contraction of Donets Coal Basin, a term coined by mining geologists. The name fits the Donbas well, but it doesn't reach Crimea or the south.
 
-The political value of this framing lies in what it offers each side domestically. Russia is spared a humiliating retreat and can point to a zone its own people spent two centuries helping to build — recognition of a shared industrial inheritance, without conceding an inch of Ukraine's legal position. Ukraine gets something more concrete: an off-ramp. Kyiv does not have to accept that it unilaterally surrendered territory: It placed a disputed strip of land under an international framework while preserving its legal claims and stopping its people from dying over ground that has barely changed hands this year. The concession takes a different political shape that might survive a vote — and under this name, the sentence a Ukrainian leader must say aloud is not "we gave up land," but "we placed the Donets Basin under joint stewardship, as it was jointly built."
+The second is to split the instruments, as Camp David did in 1978 with one framework for the Egypt–Israel treaty that settled the Sinai and a separate, broader framework for the region: one treaty for the territory, named for the ground, and a separate, non-operative declaration of shared heritage that carries the civilizational language. Then the map and the name can be negotiated apart.
 
-The weakness is that it gives Putin much less. It ends the fighting without giving him the civilizational story he went to war over.
+### The other map
 
-### A third option: the Wild Field Condominium
-
-The Wild Field (Дике Поле / Дикое Поле) can also stand as a name on its own. It predates Novorossiya, the imperial label the Kremlin revived to claim the southeast, and it belongs to both languages equally.
-
-Its appeal is that it describes the legal reality fairly accurately: neither state exercises control, and both hold their claims in abeyance. The problem is that it gives neither leader anything to sell. A governance structure named after ungoverned land sounds more like an admission of failure than an achievement.
-
-I lead with Kyivan Rus because I suspect Putin's need for a story is the binding constraint on any deal. If that's wrong, or if the price in Kyiv is too high, the other two names are available.
+The version most discussed so far draws the condominium the other way, as a demilitarized zone [controlled by neither army](https://www.nytimes.com/2026/02/18/world/europe/ukraine-russia-peace-talks-demilitarized-zone.html) over the part of Donetsk that Ukraine still holds, [under joint civilian administration](https://kyivindependent.com/joint-rule-with-russia-in-donbas/). It gives Moscow the ground it asked for, and it costs Kyiv its fortress belt and the cities behind it. When it was raised at Geneva in February, Ukrainian officials called it "unrealistic and unacceptable." "We cannot leave these fortified districts of Donetsk Oblast and essentially hand them over," said Oleksandr Merezhko, who chairs the Ukrainian parliament's foreign affairs committee. It asks Ukraine to hand over what Russia has not been able to take.
 
 ## What a name can't do
 
-None of this eliminates the need for the strongest possible security guarantees for Ukraine. A condominium without credible deterrence is just a new fault line waiting to produce a new war. The arrangement only works if an attack on the zone or across it triggers consequences severe enough to make escalation irrational.
+None of this eliminates the need for the strongest possible security guarantees for Ukraine. A condominium without credible deterrence is just a new fault line waiting to produce a new war.
 
-Two kinds of guarantee are needed, and they shouldn't be confused. The first protects Ukraine itself. The U.S., Europe and NATO are already negotiating those, and they were the main subject of the Miami talks. A condominium doesn't replace them; it depends on them.
+Two kinds of guarantee are needed, and they shouldn't be confused. The first protects Ukraine itself. The U.S., Europe and NATO are already negotiating those, and they were the main subject of the Miami talks. They should rest on a treaty, not on any one government's goodwill, because the past month has shown how quickly goodwill moves. A condominium doesn't replace them; it depends on them.
 
-The second kind belongs to the zone: monitors, arbiters and a presence on the ground. Those should come from states both sides can accept, with the military capacity, diplomatic independence, and credibility to make the zone real. The UAE, which has already hosted trilateral negotiations and facilitated multiple prisoner exchanges, is an obvious candidate. Turkey, India, and Serbia suggest themselves as further possibilities. But this is a naive first pass, as the exact composition would be a matter of intense negotiation.
+The second kind belongs to the condominium: monitors, arbiters and a presence along the line. Those should come from states both sides can accept, with the military capacity, diplomatic independence, and credibility to make the arrangement real. The UAE, which has already hosted trilateral negotiations and facilitated multiple prisoner exchanges, is an obvious candidate. Turkey, India, and Serbia suggest themselves as further possibilities. But this is a naive first pass, as the exact composition would be a matter of intense negotiation.
 
 Without credible guarantors, any condominium becomes what Minsk was — a piece of paper that buys time for the next invasion. Ukraine has earned the right to demand that any framework be backed by guarantees with real teeth, not diplomatic gestures.
 
-The institutional architecture needed to sustain a condominium and the broader Russia-Ukraine peace settlement will need to be stood up. The Board of Peace proposed by the Trump administration could serve this function, providing the scaffolding from which both the condominium and the wider political settlement's permanent structures are built and eventually made standalone.
+Crucially, any condominium arrangement should be ratified by a plebiscite in both nations. Ukraine has recently accepted a plebiscite in principle, and its constitution requires one. But putting this proposal directly before the Russian people matters just as much, if not more, because they deserve a vote on whether they continue to throw their countrymen away as lambs to the slaughter.
 
-Crucially, any condominium arrangement should be ratified by a plebiscite in both nations. Ukraine has recently accepted a plebiscite in principle. But putting this proposal directly before the Russian people matters just as much, if not more, because they deserve a vote on whether they continue to throw their countrymen away as lambs to the slaughter.
+The timing would need protecting. Ukraine cannot hold a referendum under martial law, so its vote has to follow a ceasefire. Moscow has already blamed Ukrainian strikes during its parliamentary elections for stalling the talks, so both votes should fall inside the ceasefire, with no strikes on either side's cities while the polls are open.
 
-The timing would need protecting. Moscow has already blamed Ukrainian strikes during its parliamentary elections for stalling the talks, so both votes should fall inside a ceasefire, with no strikes on either side's cities while the polls are open.
+## What this proposal doesn't do
+
+The weakness is plain. Russia has lived with the non-recognition of Crimea since 2014, and if Putin values "we took it" more than the world's acceptance, the trade fails. Recognition only matters if it comes with the things Russia actually wants: sanctions relief, reconstruction money, normal trade. And covering the whole line turns this from a Donbas proposal into a settlement of the war, which is a larger claim than one essay can carry. It does not settle how enforcement would work, or how the rights Ukraine holds inside the condominium would be protected in practice. Those are problems for professionals at the table.
 
 A note on my own limits: I'm a security engineer, not a historian of the Slavic world. The history here is my best understanding, and I expect specialists to refine parts of it. The argument doesn't depend on getting every date right. It depends on the observation that the compromise currently has a mechanism but no name.
-
-This proposal does not resolve the hardest questions facing negotiators. It does not explain why Russia would accept shared governance, or how enforcement would work. Reconstruction money is less of a gap than it was: the postwar package U.S. envoys presented in Miami includes reconstruction funding, and the zone would draw on it. Those are problems for professionals at the table.
 
 What it offers is simpler: a name and a narrative for a compromise that currently has neither.
 
