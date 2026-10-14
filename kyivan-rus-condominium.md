@@ -26,7 +26,7 @@ A condominium is a territory jointly administered by two states without resolvin
 
 Freeze the war at the line of contact, and make the territory Russia now holds a condominium.
 
-Ukraine keeps everything it holds today, including Sloviansk, Kramatorsk and the rest of its fortress belt. No army withdraws and no city is evacuated, which makes the line the simplest kind to verify. Russia goes on administering the territory it holds, day to day. Ukraine holds defined rights inside it: citizenship for residents who want it, property claims, a right of return, international monitoring, and a say in its final status. Neither side renounces its claim. Sovereignty is deferred, not transferred.
+Ukraine keeps everything it holds today, including Sloviansk, Kramatorsk and the rest of its fortress belt. No army withdraws and no city is evacuated, which makes the line the simplest kind to verify. Russia goes on administering the territory it holds, day to day. Ukraine holds defined rights inside it: citizenship for residents who want it, property claims, a right of return, a share of the territory's revenue, international monitoring, and a say in its final status. Neither side renounces its claim. Sovereignty is deferred, not transferred.
 
 The whole line has to be covered. A ceasefire can't hold in Donetsk while the fighting goes on at Zaporizhzhia, and a settlement that recognizes some of Russia's gains but not others leaves the war half over. So the condominium covers all of it, with annexes where the ground needs its own rules:
 
@@ -35,6 +35,16 @@ The whole line has to be covered. A ceasefire can't hold in Donetsk while the fi
 - **Water and the Dnipro line**, in a technical annex.
 
 If Moscow won't put Crimea into the condominium at all, Crimea can go to a separate protocol, to be settled later, and the rest can proceed. That is a concession to keep in hand for the negotiation, not one to make at the start.
+
+## Sharing the revenue
+
+A condominium usually comes with a shared purse, and this one should. The occupied territories hold much of Ukraine's coal and metals, by one 2022 estimate [63% of its coal deposits and 42% of its metals](https://www.nbcnews.com/politics/national-security/know-ukraines-mineral-wealth-rcna194070), as well as the Zaporizhzhia nuclear plant, the largest in Europe. Today what they produce is under sanctions and sells, if at all, at a discount.
+
+Under the condominium, revenue from the territory, meaning mining royalties, the plant's electricity, and port and transit fees, would go into a common fund run by a neutral trustee and audited by the monitors. A fixed formula would divide it: for example, half stays in the territory for its residents and its reconstruction, and the other half is split between Russia and Ukraine, in a ratio the two sides negotiate.
+
+There are precedents for sharing the proceeds of contested ground without settling who owns it. Unable to agree on a sea border, Australia and Indonesia signed the [Timor Gap Treaty](https://en.wikipedia.org/wiki/Timor_Gap) in 1989 and split the revenue from its central zone equally; when East Timor took Indonesia's place in 2002, the split moved to 90:10 in East Timor's favor. Saudi Arabia and Kuwait shared the oil revenue from their [Neutral Zone](https://en.wikipedia.org/wiki/Saudi_Arabian%E2%80%93Kuwaiti_neutral_zone) equally for decades, before and after they divided its administration.
+
+For Moscow, sharing costs less than it looks. Recognition is what lets the territory's coal, steel and electricity sell legally at market prices, so Russia's share of a larger, legal economy can be worth more than all of a sanctioned one. For Kyiv, the share turns a claim on paper into income. For both, it puts a price on breaking the peace: a strike on the territory, or a breach of the condominium's terms, would cost the side responsible its share, paid into the fund instead.
 
 ## The trade
 
