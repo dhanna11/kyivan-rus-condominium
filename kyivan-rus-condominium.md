@@ -40,11 +40,11 @@ If Moscow won't put Crimea into the condominium at all, Crimea can go to a separ
 
 A condominium usually comes with a shared purse, and this one should. The occupied territories hold much of Ukraine's coal and metals, by one 2022 estimate [63% of its coal deposits and 42% of its metals](https://www.nbcnews.com/politics/national-security/know-ukraines-mineral-wealth-rcna194070), as well as the Zaporizhzhia nuclear plant, the largest in Europe. Today what they produce is under sanctions and sells, if at all, at a discount.
 
-Under the condominium, revenue from the territory, meaning mining royalties, the plant's electricity, and port and transit fees, would go into a common fund run by a neutral trustee and audited by the monitors. A fixed formula would divide it: for example, half stays in the territory for its residents and its reconstruction, and the other half is split between Russia and Ukraine, in a ratio the two sides negotiate.
+Under the condominium, Russia goes on administering the territory and collecting what it earns. But if Russia wants sanctions relief, a fixed share of the territory's resource revenue, meaning royalties and state income from its mines and the nuclear plant's power sales, goes to Ukraine, paid through a neutral trustee and audited by the monitors. No payment, no relief. The size of the share is for negotiators; it should be large enough that Ukrainians see a real share rather than a token, and small enough that Moscow can't call it tribute.
 
 There are precedents for sharing the proceeds of contested ground without settling who owns it. Unable to agree on a sea border, Australia and Indonesia signed the [Timor Gap Treaty](https://en.wikipedia.org/wiki/Timor_Gap) in 1989 and split the revenue from its central zone equally; when East Timor took Indonesia's place in 2002, the split moved to 90:10 in East Timor's favor. Saudi Arabia and Kuwait shared the oil revenue from their [Neutral Zone](https://en.wikipedia.org/wiki/Saudi_Arabian%E2%80%93Kuwaiti_neutral_zone) equally for decades, before and after they divided its administration.
 
-For Moscow, sharing costs less than it looks. Recognition is what lets the territory's coal, steel and electricity sell legally at market prices, so Russia's share of a larger, legal economy can be worth more than all of a sanctioned one. For Kyiv, the share turns a claim on paper into income. For both, it puts a price on breaking the peace: a strike on the territory, or a breach of the condominium's terms, would cost the side responsible its share, paid into the fund instead.
+For Moscow, sharing costs less than it looks. The share is what sanctions relief costs, and nothing more. Recognition is what lets the territory's coal, steel and electricity sell legally at market prices, so Russia's share of a larger, legal economy can be worth more than all of a sanctioned one. For Kyiv, the share turns a claim on paper into income. For both, it puts a price on breaking the peace: a strike on the territory, or a breach of the condominium's terms, would cost the side responsible its share, paid into the fund instead.
 
 ## The trade
 
@@ -56,7 +56,7 @@ The legal path exists on both sides. Since 2020, Russia's constitution has forbi
 
 For Kyiv, the trade is exclusive sovereignty on paper, over land it does not control, in exchange for its defensive line, an end to the fighting, and rights it does not have today in the occupied territories.
 
-Recognition is not Ukraine's alone to give. It needs the United States, Britain and France not to veto it in the Security Council, and the European Union to lift its territorial sanctions. That makes the West a party to the deal, and it gives Washington and Brussels something to put on the table besides pressure on Kyiv. Relief should come in stages, each released when Russia has met its obligations under the condominium and monitors have verified it.
+Recognition is not Ukraine's alone to give. It needs the United States, Britain and France not to veto it in the Security Council, and the European Union to lift its territorial sanctions. That makes the West a party to the deal, and it gives Washington and Brussels something to put on the table besides pressure on Kyiv. Relief should come in stages, each released when Russia has met its obligations under the condominium, including Ukraine's revenue share, and monitors have verified it.
 
 ## Why the name matters
 
