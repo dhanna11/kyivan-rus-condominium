@@ -43,12 +43,15 @@ ICONS = {
   "Verified": '<path d="M12 2.5 14.6 4.4 17.8 4.3 18.8 7.3 21.3 9.2 20.3 12.2 21.3 15.2 18.8 17.1 17.8 20.1 14.6 20 12 21.9 9.4 20 6.2 20.1 5.2 17.1 2.7 15.2 3.7 12.2 2.7 9.2 5.2 7.3 6.2 4.3 9.4 4.4z"/><path d="m8.5 12 2.5 2.5 4.5-5"/>',
   "Warning": '<path d="M12 3 2 20h20z"/><path d="M12 10v4"/><path d="M12 17h.01"/>',
 }
-SECTION_LABEL = {"open": "Cover", "problem": "The impasse", "mechanism": "The mechanism", "name": "The name",
-                 "make-it-real": "Guarantees and the vote", "close": "Limits and sources"}
+SECTION_LABEL = {"open": "Cover", "problem": "The impasse", "proposal": "The proposal", "name": "The name",
+                 "alternatives": "The other map", "make-it-real": "Guarantees and the vote", "close": "Limits and sources",
+                 "mechanism": "The mechanism"}   # "mechanism" was the first deck's section (Oct 2026)
 SLIDE_LABEL = {"sources": "Sources"}
 # Slide ids the deck has dropped, mapped to the slide that now holds the same content, so links people shared keep working.
 # Add an entry whenever a slide is removed or renamed; never delete one.
-SLIDE_ALIASES = {}
+SLIDE_ALIASES = {
+  "on-the-table": "plans", "donets": "three-names", "kyiv-price": "kyivan-rus",   # 11 Nov 2026: the frozen-line deck
+}
 BUILD_WARNINGS = []
 
 UNKNOWN_ICONS = set()
@@ -102,7 +105,7 @@ DRAFT_HEAD = """<meta name="robots" content="noindex">
   .draft { position:absolute; left:16px; top:12px; z-index:3; pointer-events:none; font: 700 11px/1 'JetBrains Mono', ui-monospace, monospace;
            letter-spacing:2.5px; color: var(--deep); background: var(--gold); border-radius:3px; padding:6px 10px; }
   .stage section::after { content:"DRAFT"; position:absolute; left:50%; top:50%; transform: translate(-50%, -50%) rotate(-24deg);
-           font: 700 360px/1 'JetBrains Mono', ui-monospace, monospace; letter-spacing:40px; color: rgba(200,132,74,.05); pointer-events:none; }
+           font: 700 360px/1 'JetBrains Mono', ui-monospace, monospace; letter-spacing:40px; color: rgba(164,73,43,.05); pointer-events:none; }
 </style>"""
 DRAFT_BADGE = '<div class="draft">DRAFT · NOT FINAL</div>'
 
@@ -114,11 +117,11 @@ TEMPLATE = r"""<!doctype html>
 <title>{{DRAFT_TITLE}}The Kyivan Rus Condominium</title>
 {{DRAFT_HEAD}}
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=JetBrains+Mono:wght@400;700&family=Source+Sans+3:wght@400;600;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:wght@400;600&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=JetBrains+Mono:wght@400;700&family=Source+Sans+3:wght@400;600;700&display=swap">
 <style>
-  /* single dark look, by choice: steppe soil and Donbas copper (the Islamabad deck is navy and gold) */
-  :root { color-scheme: dark; --ink:#080706; --navy:#14110d; --deep:#0d0b08; --gold:#c8844a; --gold-l:#e6a872; --gold-d:#8a5a32;
-          --paper:#efe9df; --line:rgba(200,132,74,.22); --bar:56px; }
+  /* the survey-map look (Nov 2026): paper slides on a dark bar; rust for the zone, coal and stone for the ground */
+  :root { color-scheme: dark; --ink:#3a352e; --navy:#efe8da; --deep:#24211e; --gold:#c8653f; --gold-l:#e7b49a; --gold-d:#9a8a72;
+          --paper:#efe9df; --line:rgba(231,180,154,.22); --bar:56px; }
   /* iOS Safari inflates text inside the wide 1920px slide, except while it animates, so text jumped size when a slide finished entering */
   html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
   html, body { height: 100%; }
@@ -171,7 +174,6 @@ TEMPLATE = r"""<!doctype html>
   .note:hover { color: var(--gold-l); text-decoration:underline; }
   .viewport > .note { position:absolute; left:16px; bottom:12px; opacity:.8; z-index:2; }
   .menu-ask { display:none; }
-                 color: var(--gold-l); text-decoration:none; }
   .menu-ask:not(.menu-ask + .menu-ask) { border-top:1px solid var(--line); margin-top:6px; padding-top:6px; }
   .menu-ask a { display:block; padding:10px 12px; border-radius:4px; color: var(--gold-l); text-decoration:none;
                 font: 700 11px/1.2 'JetBrains Mono', ui-monospace, monospace; letter-spacing:2px; text-transform:uppercase; }

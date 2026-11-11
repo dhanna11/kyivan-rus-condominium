@@ -15,7 +15,9 @@ You may share and adapt them, for any purpose, as long as you give credit, for e
 > *The Kyivan Rus Condominium* by David Hanna Jr., https://dhanna11.github.io/kyivan-rus-condominium/, licensed CC BY 4.0.
 
 Not covered: quoted material and the cited sources belong to their authors, and the fonts
-(EB Garamond, JetBrains Mono, Source Sans 3, loaded from Google Fonts) keep their own licenses.
+(EB Garamond, IBM Plex Sans Condensed, JetBrains Mono, Source Sans 3, loaded from Google Fonts) keep their own licenses.
+Map data: the Donetsk Oblast border is © OpenStreetMap contributors (ODbL); coastlines and outlines are from Natural Earth
+(public domain); front-line areas are from DeepState (deepstatemap.live).
 
 The build and test code (`build-slideshow.py`, `tests/`, `.github/`, and the page wrapper that
 `build-slideshow.py` puts around the slides in `index.html`) is licensed separately under the MIT License; see `LICENSE`.

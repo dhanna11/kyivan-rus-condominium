@@ -3,13 +3,17 @@
  "order": [
   "cover",
   "deadlock",
-  "on-the-table",
+  "front",
+  "plans",
   "condominium",
+  "the-map",
+  "trade",
+  "legal",
+  "revenue",
   "why-name",
-  "three-names",
   "kyivan-rus",
-  "kyiv-price",
-  "donets",
+  "three-names",
+  "other-map",
   "guarantees",
   "plebiscite",
   "limits",
@@ -22,16 +26,20 @@
    "start": "cover"
   },
   "problem": {
-   "description": "The impasse and the compromise already discussed.",
+   "description": "The impasse, the front since January, and the plans that came before.",
    "start": "deadlock"
   },
-  "mechanism": {
-   "description": "The condominium.",
+  "proposal": {
+   "description": "The mechanism, the map, the trade, the law, and the revenue.",
    "start": "condominium"
   },
   "name": {
-   "description": "Why the name matters, the three candidates, Kyivan Rus and its price, Donets.",
+   "description": "Why the name matters, the Kyivan Rus name on this map, and the candidates.",
    "start": "why-name"
+  },
+  "alternatives": {
+   "description": "The demilitarized-strip version, compared.",
+   "start": "other-map"
   },
   "make-it-real": {
    "description": "Guarantees and ratification.",

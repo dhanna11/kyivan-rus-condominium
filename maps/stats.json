@@ -1,0 +1,33 @@
+{
+ "snapshot_now": "2026-11-09",
+ "snapshot_jan": "2026-01-01",
+ "status": {
+  "Lyman": "held",
+  "Siversk": "occupied",
+  "Sloviansk": "held",
+  "Kramatorsk": "held",
+  "Druzhkivka": "held",
+  "Kostiantynivka": "held",
+  "Bakhmut": "occupied",
+  "Dobropillia": "held",
+  "Pokrovsk": "occupied",
+  "Donetsk": "occupied",
+  "Mariupol": "occupied"
+ },
+ "donetsk_oblast_sqmi": 10250,
+ "donetsk_held_share": 0.181,
+ "donetsk_gray_share": 0.02,
+ "north_window": [
+  37.25,
+  48.4,
+  38.35,
+  49.25
+ ],
+ "north_taken_by_russia_sqmi": 234,
+ "north_taken_back_by_ukraine_sqmi": 57,
+ "oblast_taken_by_russia_sqmi": 335,
+ "oblast_taken_back_by_ukraine_sqmi": 80,
+ "ukraine_sqmi": 232981,
+ "condominium_sqmi": 43224,
+ "condominium_share": 0.186
+}

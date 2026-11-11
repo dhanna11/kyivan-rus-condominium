@@ -6,6 +6,7 @@ A pitch deck for a condominium over the Ukrainian-held strip of Donetsk Oblast: 
 - `kyivan-rus-condominium.md`: the op-ed, linked from the Op-ed button and read by the Ask Claude / Ask ChatGPT buttons.
 - `deck/`: the slides (`deck.json` for order and sections, `slides/<id>.html` for one slide each). This is the source of `index.html`.
 - `build-slideshow.py`: rebuilds `index.html` from `deck/`. Needs only Python 3.
+- `tools/gen_slides.py`: writes `deck/` from the op-ed's wording and the maps. `maps/build_maps.py` draws the maps from DeepState, OpenStreetMap and Natural Earth data (`maps/fetch-data.sh` downloads it; needs `pip install shapely`).
 
 ## Publish on GitHub Pages
 1. In the repository, go to Settings → Pages. Under Source, pick "Deploy from a branch", then choose `main` and `/ (root)`.
