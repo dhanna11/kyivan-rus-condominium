@@ -239,7 +239,7 @@ S["kyivan-rus"] = section("kyivan-rus",
     kicker("The Kyivan Rus Condominium") + title("A name that gives each side something")
     + at(140, 290, 1640, p("Kyivan Rus was the medieval state, centered on Kyiv, from which both Ukrainians and Russians trace their origins.", 32, MUTED, True))
     + at(140, 380, 1640, f'<div style="display:flex; gap:22px; align-items:stretch">'
-        + fact("For Moscow", f"Putin justified the war in civilizational terms: {a('historical unity', 'http://en.kremlin.ru/events/president/news/66181')}, one people, a shared cradle. A settlement named after Rus lets him finish that story.")
+        + fact("For Moscow", f"Putin justified the war in civilizational terms: {a('historical unity', 'http://en.kremlin.ru/events/president/news/66181')}, one people, a shared cradle. He still {a('brings it to the table', 'https://kyivindependent.com/putin-lectured-nordic-leaders-on-russian-history-during-latest-call-ft-reports/')}: on a 27 Oct call with the Finnish and Norwegian leaders, most of 90 minutes on medieval history. A settlement named after Rus lets him finish the story.")
         + fact("Its strongest ground", f"By the Primary Chronicle’s account, Volodymyr of Kyiv was baptized at Chersonesus, in Crimea, in 988. Putin has called Crimea {a('Russia’s Temple Mount', 'https://www.rferl.org/a/putin-crimea-orthodox-vladimir-great-religion-ukraine-russia/26725761.html')}: a place more than one faith holds sacred.")
         + fact("For Kyiv", f"Russia’s school history standard {a('dropped “Kievan Rus”', 'https://www.mk.ru/social/2022/05/23/avtor-novogo-uchebnika-istorii-obyasnil-otsutstvie-kievskoy-rusi.html')} for “the state of Rus.” So “Kyivan” in the treaty is a real concession from Moscow, and a permanent marker of Kyiv’s claim on land Russia runs.")
         + '</div>')
@@ -371,6 +371,7 @@ SOURCES = [
     ("Al Jazeera: the 28-point plan in full", "https://www.aljazeera.com/news/2025/11/21/trumps-28-point-ukraine-plan-in-full-what-it-means-could-it-work"),
     ("Kyiv Independent: the 20-point draft", "https://kyivindependent.com/zelensky-reveals-20-point-peace-plan-draft-backed-by-ukraine-us/"),
     ("Kremlin, 2021: “On the Historical Unity of Russians and Ukrainians”", "http://en.kremlin.ru/events/president/news/66181"),
+    ("Kyiv Independent / FT, Oct 2026: Putin’s history lecture to Nordic leaders", "https://kyivindependent.com/putin-lectured-nordic-leaders-on-russian-history-during-latest-call-ft-reports/"),
     ("RFE/RL: Putin on Crimea as Russia’s Temple Mount (2014)", "https://www.rferl.org/a/putin-crimea-orthodox-vladimir-great-religion-ukraine-russia/26725761.html"),
     ("MK, 2022: why the textbook dropped “Kievan Rus”", "https://www.mk.ru/social/2022/05/23/avtor-novogo-uchebnika-istorii-obyasnil-otsutstvie-kievskoy-rusi.html"),
     ("Wilson Center: Russia’s 2020 constitutional amendment", "https://wilsoncenter.org/blog-post/2020-amendment-russian-constitution-another-sign-putins-invasion-isnt-going-planned"),
