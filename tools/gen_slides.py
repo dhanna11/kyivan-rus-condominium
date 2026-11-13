@@ -154,7 +154,7 @@ S["condominium"] = section("condominium",
     + at(140, 280, 1640, p("A territory jointly administered by two states without resolving final sovereignty.", 40, INK, True))
     + at(140, 380, 1640, f'<div style="display:flex; gap:16px; align-items:stretch">'
         + step(1, "The territory Russia holds") + arrow + step(2, "Russia administers; Ukraine holds defined rights") + arrow
-        + step(3, "The world recognizes the status") + arrow + step(4, "Sovereignty left ambiguous; both claims kept") + '</div>')
+        + step(3, "The world recognizes the status, while Russia keeps the terms") + arrow + step(4, "Sovereignty left ambiguous; both claims kept") + '</div>')
     + at(140, 640, 1640, numbered([
         "<b>Brčko</b>, Bosnia: placed under international supervision after the Yugoslav wars, precisely to defer the question of who owned it.",
         "<b>The New Hebrides</b>: run jointly by Britain and France for decades before becoming Vanuatu. Imperfect precedents: neither involved a nuclear-armed belligerent."], 30)),
@@ -182,12 +182,12 @@ S["trade"] = section("trade",
     kicker("The trade") + title("A step back at home, a step forward abroad")
     + at(140, 300, 1640, f'<div style="display:flex; gap:24px; align-items:stretch">'
         + party("Moscow", "Its exclusive claim, which only Russia recognizes; the fighting; and a share of the territory’s revenue.",
-                "A status the world accepts. Reconnection with Europe and the West, earned over years of good faith and lost on a breach.")
+                "A status the world accepts, renewed while it keeps the terms. Reconnection with Europe and the West, earned over years of good faith. A breach costs both.")
         + party("Kyiv", "Exclusive sovereignty on paper, over land it does not control.",
                 "Its defensive line; an end to the fighting; rights and a revenue share inside the territory; its claim intact.")
-        + party("The West", "Recognition, as the price of ending the war. Reconnection, only while Russia performs.",
+        + party("The West", "Recognition, as the price of ending the war, through a resolution that must be renewed. Reconnection. Both only while Russia performs.",
                 "A settlement Kyiv can sign, and a lesson for the next war: conquest doesn’t pay.") + '</div>')
-    + at(140, 870, 1640, p("Recognition is the price of ending the war, paid once. Reconnection is earned, for decades. A war of conquest must not pay.", 30, RUST, True)),
+    + at(140, 870, 1640, p("Recognition ends the war, and lasts only while Russia keeps the terms. Reconnection is earned, for decades. A war of conquest must not pay.", 30, RUST, True)),
     "THE TRADE")
 
 # ---------------------------------------------------------------- 8 the law on both sides
