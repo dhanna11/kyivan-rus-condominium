@@ -99,7 +99,7 @@ S["cover"] = section("cover", contours(1920, 1080)
         pad=52, extra=f" box-shadow:10px 10px 0 {PAPER2}"))
     + at(1440, 760, 340, box(label("Legend", MUTED, 17)
         + f'<div style="display:flex; gap:12px; align-items:center; font-size:21px"><span style="width:40px; height:18px; display:inline-block; background:repeating-linear-gradient(45deg,{RUST} 0 4px,{SALT} 4px 9px)"></span>The condominium</div>'
-        + f'<div style="display:flex; gap:12px; align-items:center; font-size:21px"><span style="width:40px; border-top:3px dashed {INK}; display:inline-block"></span>Sovereignty: deferred</div>'
+        + f'<div style="display:flex; gap:12px; align-items:center; font-size:21px"><span style="width:40px; border-top:3px dashed {INK}; display:inline-block"></span>Sovereignty: left ambiguous</div>'
         + f'<div style="display:flex; gap:12px; align-items:center; font-size:21px"><span style="width:40px; text-align:center; color:{MUTED}">⇄</span>Claims: both kept</div>', pad=22)),
     "A COMPANION TO THE ISLAMABAD ACCORDS")
 
@@ -154,7 +154,7 @@ S["condominium"] = section("condominium",
     + at(140, 280, 1640, p("A territory jointly administered by two states without resolving final sovereignty.", 40, INK, True))
     + at(140, 380, 1640, f'<div style="display:flex; gap:16px; align-items:stretch">'
         + step(1, "The territory Russia holds") + arrow + step(2, "Russia administers; Ukraine holds defined rights") + arrow
-        + step(3, "The world recognizes the status") + arrow + step(4, "Sovereignty deferred; both claims kept") + '</div>')
+        + step(3, "The world recognizes the status") + arrow + step(4, "Sovereignty left ambiguous; both claims kept") + '</div>')
     + at(140, 640, 1640, numbered([
         "<b>Brčko</b>, Bosnia: placed under international supervision after the Yugoslav wars, precisely to defer the question of who owned it.",
         "<b>The New Hebrides</b>: run jointly by Britain and France for decades before becoming Vanuatu. Imperfect precedents: neither involved a nuclear-armed belligerent."], 30)),
@@ -181,13 +181,13 @@ def party(name, gives, gets):
 S["trade"] = section("trade",
     kicker("The trade") + title("A step back at home, a step forward abroad")
     + at(140, 300, 1640, f'<div style="display:flex; gap:24px; align-items:stretch">'
-        + party("Moscow", "Its exclusive claim, which only Russia recognizes; and, for sanctions relief, a share of the territory’s revenue.",
-                "A status the world accepts, endorsed by the UN Security Council; relief in stages; legal trade, ports and investment.")
+        + party("Moscow", "Its exclusive claim, which only Russia recognizes; the fighting; and a share of the territory’s revenue.",
+                "A status the world accepts. Reconnection with Europe and the West, earned over years of good faith and lost on a breach.")
         + party("Kyiv", "Exclusive sovereignty on paper, over land it does not control.",
                 "Its defensive line; an end to the fighting; rights and a revenue share inside the territory; its claim intact.")
-        + party("The West", "Recognition at the Security Council; territorial sanctions lifted, in stages as Russia performs.",
-                "A settlement Kyiv can sign, on a line both armies already hold.") + '</div>')
-    + at(140, 870, 1640, p("Northern Cyprus shows where non-recognition leads. In 2022 the UN General Assembly condemned Russia’s annexations 143 to 5; only North Korea recognized them.", 26, MUTED, True)),
+        + party("The West", "Recognition, as the price of ending the war. Reconnection, only while Russia performs.",
+                "A settlement Kyiv can sign, and a lesson for the next war: conquest doesn’t pay.") + '</div>')
+    + at(140, 870, 1640, p("Recognition is the price of ending the war, paid once. Reconnection is earned, for decades. A war of conquest must not pay.", 30, RUST, True)),
     "THE TRADE")
 
 # ---------------------------------------------------------------- 8 the law on both sides
@@ -198,7 +198,7 @@ S["legal"] = section("legal",
     kicker("Both constitutions") + title("Nothing is ceded, so nothing breaks")
     + at(140, 300, 1640, f'<div style="display:flex; gap:28px; align-items:stretch">'
         + law("Russia", "Article 67(2.1), since 2020", "Actions aimed at alienating part of the territory of the Russian Federation … are not permitted.",
-              "A condominium alienates nothing. Russia renounces no claim; the claim becomes shared.",
+              "A condominium alienates nothing. Russia renounces no claim, and the treaty never says the land is anyone else’s.",
               "https://wilsoncenter.org/blog-post/2020-amendment-russian-constitution-another-sign-putins-invasion-isnt-going-planned")
         + law("Ukraine", "Article 73", "Issues of altering the territory of Ukraine are resolved exclusively by an All-Ukrainian referendum.",
               "Nothing is altered on paper, and the referendum this proposal requires is the route the constitution prescribes.",
@@ -215,7 +215,7 @@ S["revenue"] = section("revenue",
         + node("The territory", "Mining royalties and state income; the nuclear plant’s power sales", 430) + arrow
         + node("A neutral trustee", "Audited by the same monitors who watch the line", 380) + arrow
         + col(node("Ukraine’s share", "Large enough to be real, small enough not to be tribute: for negotiators", 470, COAL, SALT),
-              node("Russia", "The rest, and sanctions relief released as each payment is verified", 470), gap=14) + '</div>')
+              node("Russia", "The rest. Reconnection with Europe continues only while payments are verified", 470), gap=14) + '</div>')
     + at(140, 680, 800, col(label("Precedents", MUTED, 19), numbered([
         f"{a('The Timor Gap Treaty', 'https://en.wikipedia.org/wiki/Timor_Gap')}, 1989: Australia and Indonesia split the central zone’s revenue equally without agreeing a border; from 2002, 90:10 for East Timor.",
         f"{a('The Saudi–Kuwaiti Neutral Zone', 'https://en.wikipedia.org/wiki/Saudi_Arabian%E2%80%93Kuwaiti_neutral_zone')}: oil revenue shared equally for decades."], 24, 10), gap=10))
