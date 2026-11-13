@@ -22,7 +22,7 @@ def a(t, href): return f'<a style="{A}" href="{href}" target="_blank" rel="noope
 def sqmi(n): return f"{n:,}"
 
 ORDER = ["cover", "deadlock", "front", "plans", "condominium", "the-map", "trade", "legal", "revenue",
-         "why-name", "kyivan-rus", "three-names", "other-map", "guarantees", "plebiscite", "limits", "close", "sources"]
+         "why-name", "putin", "kyivan-rus", "three-names", "other-map", "guarantees", "plebiscite", "limits", "close", "sources"]
 N = len(ORDER)
 
 # ---------------------------------------------------------------- the map-sheet frame every slide sits in
@@ -233,13 +233,32 @@ S["why-name"] = section("why-name",
         "Each country ratifies by plebiscite, so the name is what each electorate will understand itself to be voting on."], 34, 22)),
     "THE NAME")
 
+# ---------------------------------------------------------------- 11a what Putin believes
+ESSAY = "http://en.kremlin.ru/events/president/news/66181"
+KI = "https://kyivindependent.com/putin-lectured-nordic-leaders-on-russian-history-during-latest-call-ft-reports/"
+def quote(q, src, size=44):
+    return col(f'<p style="font-family:{SERIF}; font-size:{size}px; line-height:1.15; color:{INK}">“{q}”</p>', mono(src, 16), gap=8)
+def when(d, t): return col(label(d, RUST, 18), p(t, 25), gap=4)
+S["putin"] = section("putin",
+    kicker("What Putin believes") + title("The war he says he is fighting")
+    + at(140, 290, 1040, col(
+        quote("Russians and Ukrainians were one people – a single whole. … It is what I have said on numerous occasions and what I firmly believe.", "PUTIN, “ON THE HISTORICAL UNITY OF RUSSIANS AND UKRAINIANS,” 12 JULY 2021", 40),
+        quote("Russians, Ukrainians, and Belarusians are all descendants of Ancient Rus.", "THE SAME ESSAY", 40),
+        quote("The throne of Kiev held a dominant position in Ancient Rus.", "THE SAME ESSAY, WHICH QUOTES THE CHRONICLE ON KIEV: “LET IT BE THE MOTHER OF ALL RUSSIAN CITIES”", 40),
+        gap=30) + f'<p style="margin-top:14px; font-family:{COND}; font-size:20px">{a("Read the essay on the Kremlin’s English site", ESSAY)}</p>')
+    + at(1250, 290, 530, box(label("He still brings it to the table", MUTED, 18)
+        + when("August 2025 · Alaska", "Reportedly lectures Trump on Rurik, Yaroslav the Wise and Bohdan Khmelnytsky.")
+        + when("27 October 2026 · Finland, Norway", f"Spends most of a 90-minute call on medieval Slavic history; the ceasefire barely comes up ({a('FT', KI)}).")
+        + when("December 2014", "Calls Crimea, “the ancient Korsun or Chersonesus,” sacred to Russia, like the Temple Mount."), pad=28))
+    + at(140, 850, 1640, p("The name concedes the reason he gave for this war. To him, that is worth more than the land or the money now on the table.", 34, RUST, True)),
+    "WHAT PUTIN BELIEVES")
+
 # ---------------------------------------------------------------- 11 the Kyivan Rus name on this map
 def fact(head, body): return box(label(head, RUST, 19) + p(body, 27), pad=24, extra=" flex:1")
 S["kyivan-rus"] = section("kyivan-rus",
     kicker("The Kyivan Rus Condominium") + title("A name that gives each side something")
     + at(140, 290, 1640, p("Kyivan Rus was the medieval state, centered on Kyiv, from which both Ukrainians and Russians trace their origins.", 32, MUTED, True))
     + at(140, 380, 1640, f'<div style="display:flex; gap:22px; align-items:stretch">'
-        + fact("For Moscow", f"Putin justified the war in civilizational terms: {a('historical unity', 'http://en.kremlin.ru/events/president/news/66181')}, one people, a shared cradle. He still {a('brings it to the table', 'https://kyivindependent.com/putin-lectured-nordic-leaders-on-russian-history-during-latest-call-ft-reports/')}: on a 27 Oct call with the Finnish and Norwegian leaders, most of 90 minutes on medieval history. A settlement named after Rus lets him finish the story.")
         + fact("Its strongest ground", f"By the Primary Chronicle’s account, Volodymyr of Kyiv was baptized at Chersonesus, in Crimea, in 988. Putin has called Crimea {a('Russia’s Temple Mount', 'https://www.rferl.org/a/putin-crimea-orthodox-vladimir-great-religion-ukraine-russia/26725761.html')}: a place more than one faith holds sacred.")
         + fact("For Kyiv", f"Russia’s school history standard {a('dropped “Kievan Rus”', 'https://www.mk.ru/social/2022/05/23/avtor-novogo-uchebnika-istorii-obyasnil-otsutstvie-kievskoy-rusi.html')} for “the state of Rus.” So “Kyivan” in the treaty is a real concession from Moscow, and a permanent marker of Kyiv’s claim on land Russia runs.")
         + '</div>')
@@ -393,7 +412,7 @@ S["sources"] = section("sources",
         + a("GITHUB.COM/DHANNA11/KYIVAN-RUS-CONDOMINIUM", "https://github.com/dhanna11/kyivan-rus-condominium"), 16)),
     "SOURCES")
 
-assert ORDER == list(S), set(ORDER) ^ set(S)
+assert set(ORDER) == set(S), set(ORDER) ^ set(S)
 (OUT / "slides").mkdir(parents=True, exist_ok=True)
 for old in (OUT / "slides").glob("*.html"):
     if old.stem not in S: old.unlink()
